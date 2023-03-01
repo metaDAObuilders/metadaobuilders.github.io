@@ -39,4 +39,6 @@ To quell this concern, we have adopted a common approach to this problem: networ
 
 In other words, you have a strong financial incentive to join earlier rather than later. 
 
+### Footnotes
+
 [^1]: Examples of DeFi DAOs that exploit economies of scale and/or scope include MakerDAO (many contributors focused on DAI optimization), Sushi (multiple products), Uniswap (multiple products), Fei/Rari before disbanding (multiple products), Gnosis (multiple products, although some have been spun out), Yearn (many contributors), and Curve (once it releases its stablecoin). Two main reasons for this consolidation are **product-optimization economies of scale** (simply, that bigger DAOs can affort to optimize more, which in turn makes them bigger) and **brand and community-driven economies of scope** (it is easier to launch a product under an existing brand than to develop a new brand and community). Note that as DeFi expands to mass market, both of these incentives are likely to get stronger because (1) a larger market allows for more optimization and (2) a mass-market customer is unlikely to be searching for new products, and will instead tend to stick with the products and brands they know.

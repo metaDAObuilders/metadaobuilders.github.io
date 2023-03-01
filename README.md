@@ -33,7 +33,10 @@ More on mechanics can be found here: TODO.
 
 ## Why you should join
 
-TODO
+Let us suppose that you are thinking "sure, this would be great once it gets scale, but I wouldn't join until then." In other words, you have decided that "wait and see" is the optimal algorithm in this situation.
 
+To quell this concern, we have adopted a common approach to this problem: network mining. A token called $META shall exist which will give its holders a claim upon 50% of all members' tokens. Each block, an equal amount of $META is to be distributed to each member, for each member to divvy up how they see fit. Importantly, $META will follow the reward distribution of Bitcoin, such that there are only 21 million $META ever mined and early miners will receive far more $META than late miners. 
+
+In other words, you have a strong financial incentive to join earlier rather than later. 
 
 [^1]: Examples of DeFi DAOs that exploit economies of scale and/or scope include MakerDAO (many contributors focused on DAI optimization), Sushi (multiple products), Uniswap (multiple products), Fei/Rari before disbanding (multiple products), Gnosis (multiple products, although some have been spun out), Yearn (many contributors), and Curve (once it releases its stablecoin). Two main reasons for this consolidation are **product-optimization economies of scale** (simply, that bigger DAOs can affort to optimize more, which in turn makes them bigger) and **brand and community-driven economies of scope** (it is easier to launch a product under an existing brand than to develop a new brand and community). Note that as DeFi expands to mass market, both of these incentives are likely to get stronger because (1) a larger market allows for more optimization and (2) a mass-market customer is unlikely to be searching for new products, and will instead tend to stick with the products and brands they know.

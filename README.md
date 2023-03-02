@@ -2,7 +2,7 @@ To whom it may concern,
 
 We are the builders of the Meta-DAO. Please allow us 5 minutes to explain what the Meta-DAO is and how you might benefit from joining it.
 
-We shall structure our writing in three pieces:
+We shall structure our writing in three sections:
 - **Purpose**: why we need the Meta-DAO
 - **Mechanics**: how the Meta-DAO will work
 - **Why you should join**: self-explanatory
@@ -13,7 +13,14 @@ Have you ever worked at a big company? If you have, you know how soul-crushing t
 
 Still, big companies survive. Because of economies of scale and scope, big companies are usually more economically efficient than their smaller counterparts. 
 
-Decentralized finance (DeFi) is not immune from this. At its inception, most people believed that DeFi would exist as an interconnected ecosystem of micro-products ('financial legos'). As time has progressed, more and more people have woken up to the fact that DeFi also has economies of scale and scope, and that this will push the industry towards consolidation.[^1]
+Decentralized finance (DeFi) is not immune from this. At its inception, most people believed that DeFi would exist as an interconnected ecosystem of micro-products ('financial legos').
+
+![atomized DeFi](media/atomized-defi.excalidraw.png)
+
+As time has progressed, more and more people have woken up to the fact that DeFi also has economies of scale and scope, causing it to look more like the below.[^1]
+
+What the majority expected DeFi to look like:
+
 
 The purpose of the Meta-DAO is to build a DeFi organization that can scale without adopting the soul-crushing practices of big companies.
 

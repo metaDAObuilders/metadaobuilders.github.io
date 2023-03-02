@@ -21,13 +21,19 @@ As time has progressed, more and more people have woken up to the fact that DeFi
 
 ![actual DeFi](media/actual-defi.excalidraw.png)
 
-The question that naturally arises is: 'will these DeFi organizations start looking like big companies?' **We intend to ensure that this does not happen. We will do so by building a radically new organization that can scale without adopting the practices of big companies (hierarchy, bureacracy, board of directors, et cetera).**
+The question that naturally arises is: 'will these DeFi organizations start looking like big companies?' **We intend to ensure that this does not happen. We will do so by building a radically new organization that can scale without adopting the practices of big companies.**
 
 ## Mechanics
 
-For an organization to be scalable, it needs to solve one key problem: ensuring that the people in the organization are taking actions that benefit the organization as a whole. This is a problem because as an organization grows, each person has a smaller stake in the organization. Thus, their natural incentive will be to focus on taking as much as they can from the organization rather than growing the organization.[^2]
+All organizations need to solve one problem: ensuring that people in the organization take actions that benefit the organization as a whole. 
 
-The Meta-DAO's approach to this problem is to shift decision-making power to algorithms and markets. As in existing DAOs, actions are proposed and enacted through improvement proposals. Unlike existing DAOs:
+When an organization is small, this problem is naturally solved by a combination of these factors:
+- People own a large percentage of the organization's successes or failures. For example, if you own 50% of a business, a $1M profit means $500k for you. If you own 0.01% of a business, a $1M profit means $100 for you.
+- There are few enough people to create a functional status-hierarchy where contributors are given high status and non-contributors are given low status.
+
+Large organizations have neither of these factors and so need other mechanisms to work. Hierarchies and bureaucracies are examples of this.
+
+Instead of doing that, the Meta-DAO shifts decision-making power to algorithms and markets. As in existing DAOs, actions are proposed and enacted through improvement proposals. Unlike in existing DAOs:
 - The Meta-DAO is a federation of numerous 'members'. Members are analogous to divisions at a company, but they each have their own token.
 - For each improvement proposal, the Meta-DAO uses a market-based mechanism called [futarchy](http://robinhanson.com/futarchy.html) to estimate that proposal's impact on the market capitalizations of members.
 - When a proposal has a net-positive impact on the market capitalizations of members, the Meta-DAO executes it. If it has a net-negative impact, it disregards it.

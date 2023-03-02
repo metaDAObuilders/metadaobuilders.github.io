@@ -15,14 +15,13 @@ Still, big companies survive. Because of economies of scale and scope, big compa
 
 Decentralized finance (DeFi) is not immune from this. At its inception, most people believed that DeFi would exist as an interconnected ecosystem of micro-products ('financial legos').
 
-![atomized DeFi](media/atomized-defi.excalidraw.png)
+![atomized DeFi](media/financial-legos.excalidraw.png)
 
 As time has progressed, more and more people have woken up to the fact that DeFi also has economies of scale and scope, causing it to look more like the below.[^1]
 
-What the majority expected DeFi to look like:
+![actual DeFi](media/actual-defi.excalidraw.png)
 
-
-The purpose of the Meta-DAO is to build a DeFi organization that can scale without adopting the soul-crushing practices of big companies.
+The question that naturally arises is: 'will these DeFi organizations start looking like big companies?' **We intend to ensure that this does not happen. We will do so by building a radically new organization that can scale without adopting the practices of big companies (hierarchy, bureacracy, board of directors, et cetera).**
 
 ## Mechanics
 
